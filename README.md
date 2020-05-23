@@ -1,0 +1,2 @@
+# AI-JARVIS-PERSONAL-ASSISTANT
+In this project i will be sharing you my latest Ai project,Automated Ironman helmet with Ai jarvis as personal assistant  using Raspberry pi 4b Softwares or coding part An ai chatbot is trained for particular intents to intitate and interact good and human friendly converstions,it will do home automations(switch on and off light and fan), search wikipedia ,play songs from youtube,can get the time,can set reminders
