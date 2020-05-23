@@ -8,8 +8,16 @@ MY PROJECT VIDEO LINK
 THE AUTOMATED IRON MAN HELMET AND AI JARVIS 
 LINK-https://youtu.be/MlT1fxBZIAY
 
+
+Guys this project is result of 3.5 months hardwork on coding part and making up hardware took only 4-5days
 IF YOU HAVE ANY QUERIES OR DOUBTS COMMENT BELOW MY VIDEO
 
 
 EXECUTION
-DOWNLOAD ALL THE
+DOWNLOAD ALL THE files here
+on your pc windows or linux or mac execute the file -jarvis_client_pc_side.py you need only this file on your pc
+put your raspi ip address ,login name ,password in the file
+
+and all other files should be copied to this location of raspberry pi - home/pi/
+
+hope you have installed the required libraries like pandas ,nltk,tensorflow etc
