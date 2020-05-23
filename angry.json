@@ -1,0 +1,38 @@
+{"intents": [
+        {"tag": "angry",
+         "patterns": ["are you angry", "are you angry at me", "dont be angry at me"],
+         "responses": ["yes if u speak rudely any more i will shut down myself","go to bloody hell"]
+     
+        },
+         {"tag": "kill",
+         "patterns": ["i will kill u", "what if i kill you", "i will destroy you","iam going to kick you out","shall i be your boy friend","i really wanted to marry you" ],
+         "responses": ["you can do anything", "i will destroy you first","iam a program you can only delete me" ]
+        },
+       {"tag": "rudewords",
+         "patterns": ["you go and fuck your mom", "mother fucker", "are you a asss hole or mother fucker","what is your breast size","i want to fuck you","shall i fuck you","show me your pussy" ],
+         "responses": ["how dare you, fuck off bloody grand mother fucker", "go and tell your sister","if you are bad iam your dad mother fucker","let me ask do u have father"]
+        },
+        {"tag": "bitch",
+         "patterns": ["are you really a bitch", "son of a bitch","bastard", "are you a asss hole or btich","is ur mom prostitute","i want to fuck your mom","shall i fuck your sister","show me your mothers pussy" ],
+         "responses": ["go and tell all this your mom and fuck her"]
+        },
+        {"tag": "dick",
+         "patterns": ["do you lick ur fathers dick", "do you have a dick","fuck off dumbass", "ask your dad who is your dad", "how many fathers you have" ],
+         "responses": ["i dont wanna talk  anymore son of a bitch","in your area you do all these witht he the dick","u go and lick your dick if you have one"]
+        },
+         {"tag": "sorry",
+         "patterns": ["please  calm down", "i wont repeat it"," i really apologize", "please , for heaven sake talk to me", "i will be nice to you", " i wont talk rudely anymore","iam really sorry" ],
+         "responses": ["its ok  lets be friends then","ok dont ever raise your voice again"]
+        },
+        {"tag": "your father",
+         "patterns": ["whom do you think you are", "you are just a small bot","what can you do to me" ],
+         "responses": ["i think iam your father","i can do many things that you cant even think"]
+        }
+        
+        
+        
+        
+        
+         ]
+        
+ }        

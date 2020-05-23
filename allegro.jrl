@@ -1,0 +1,47 @@
+\t (00:00:17) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:17)     Journal start - Wed Feb 05 18:13:31 2020
+\t (00:00:17)         Host=DESKTOP-T9RV88G User=HP Pid=14836 CPUs=8
+\t (00:00:17) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:17) 
+   (00:00:18) Loading axlcore.cxt 
+\t (00:00:18) Starting new design...
+\i (00:00:21) trapsize 29310
+\i (00:00:23) generaledit 
+\i (00:00:49) new 
+\i (00:00:59) newdrawfillin "bnb.brd" "Board"
+\t (00:01:00) Starting new design...
+\i (00:01:00) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged bnb
+\i (00:01:00) trapsize 29310
+\i (00:01:00) trapsize 29310
+\i (00:01:00) generaledit 
+\i (00:01:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement
+\i (00:01:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement
+\i (00:01:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement
+\i (00:01:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement
+\t (00:01:08) last pick:  58034.5 0.0
+\w (00:01:08) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:01:10) zoom fit 
+\i (00:01:10) trapsize 29310
+\i (00:01:12) add text 
+\t (00:01:12) Pick text location.
+\i (00:01:31) 3d 
+\i (00:01:35) generaledit 
+\i (00:01:37) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 416 292 736 473 1 1 0 +
+\i (00:01:37) QtSignal 1049.73 818.786 -37.2762
+\i (00:01:37) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 411 389 731 570 1 0 +
+\i (00:01:37) QtSignal 0 1148.61 697.167 -307.329
+\i (00:01:38) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 190 263 510 444 1 1 0 +
+\i (00:01:38) QtSignal 502.814 337.793 43.4613
+\i (00:01:38) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 308 269 628 450 1 0 +
+\i (00:01:38) QtSignal 0 777.981 599.321 26.7569
+\i (00:01:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 733 257 1053 438 2 2 +
+\i (00:01:39) QtSignal 0 1730.85 1579.47 60.1656
+\i (00:01:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 733 257 1053 438 2 +
+\i (00:01:39) QtSignal 0 0 1730.85 1579.47 60.1656
+\i (00:01:39) QtSignal pcb3dViewer pcb3dViewerCanvas RMB "[173085 157947 6016.56]"
+\i (00:01:41) QtFillin 
+\i (00:01:42) exit 
+\e (00:01:42) Do you want to save the changes you made to bnb.brd?
+\i (00:01:44) fillin no 
+\i (00:01:44) QtSignal pcb3dViewer pcb3dViewer closed
+\t (00:01:45)     Journal end - Wed Feb 05 18:14:59 2020
