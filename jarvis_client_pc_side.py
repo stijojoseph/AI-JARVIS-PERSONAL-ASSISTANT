@@ -7,7 +7,7 @@ import paramiko
 host = "raspberrypi.local"#TYPE YOUR IP ADDRESS RASPI
 port = "22"
 username = "pi"##YOUR USER NAME
-password = "jinesh2000"# YOUR PASSWORD
+password = ""# YOUR PASSWORD
 
 command = "ls"
 
